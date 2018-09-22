@@ -3,11 +3,11 @@
 Projeto de jogo de luta Open Source, ponha os políticos para brigar nessa batalha sangrenta!!!
 
 # Plano de Jogo
-Nome 
-Categoria 
-Época
-Personagens 
-Cenário 
-História 
-Regras 
+Nome<br/>
+Categoria<br/>
+Época<br/>
+Personagens<br/> 
+Cenário<br/> 
+História<br/> 
+Regras<br/> 
 
